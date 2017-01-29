@@ -1,0 +1,918 @@
+Airport,City,IATA,ICAO,Country,Lat,Long,Alt
+Flugplatz Merzbrueck,Aachen,AAH,EDKA,Germany,50.823194,6.186389,570
+Aalborg,Aalborg,AAL,EKYT,Denmark,57.092789,9.849164,10
+Vityazevo,Anapa,AAQ,URKA,Russia,45.002097,37.347272,174
+Aarhus,Aarhus,AAR,EKAH,Denmark,56.300017,10.619008,82
+Dyce,Aberdeen,ABZ,EGPD,United Kingdom,57.201944,-2.197778,215
+St Gallen Altenrhein,Altenrhein,ACH,LSZR,Switzerland,47.485033,9.560775,1306
+Alderney,Alderney,ACI,EGJA,Guernsey,49.706111,-2.214722,290
+Adana,Adana,ADA,LTAF,Turkey,36.982166,35.280388,65
+Adnan Menderes,Izmir,ADB,LTBJ,Turkey,38.292392,27.156953,412
+Adiyaman Airport,Adiyaman,ADF,LTCP,Turkey,37.7314,38.4689,2216
+Leuchars,Leuchars,ADX,EGQL,United Kingdom,56.372889,-2.868444,38
+Sochi,Sochi,AER,URSS,Russia,43.449928,39.956589,89
+Vigra,Alesund,AES,ENAL,Norway,62.560372,6.110164,69
+Afyon,Afyon,AFY,LTAH,Turkey,38.726425,30.601114,3310
+Augsburg,Augsburg,AGB,EDMA,Germany,48.425158,10.931764,1515
+Wangerooge Airport,Wangerooge,AGE,EDWG,Germany,53.7828,7.91389,7
+La Garenne,Agen,AGF,LFBA,France,44.174721,0.590556,204
+Ängelholm-Helsingborg Airport,Ängelholm,AGH,ESTA,Sweden,56.2961,12.8471,68
+Malaga,Malaga,AGP,LEMG,Spain,36.6749,-4.499106,52
+Agrinion,Agrinion,AGQ,LGAG,Greece,38.602022,21.351208,154
+Alghero,Alghero,AHO,LIEA,Italy,40.632133,8.290772,87
+Campo Dell Oro,Ajaccio,AJA,LFKJ,France,41.923637,8.802917,18
+Agri Airport,Agri,AJI,LTCO,Turkey,39.6546,43.0271,5462
+Arvidsjaur,Arvidsjaur,AJR,ESNX,Sweden,65.590278,19.281944,1245
+Akrotiri,Akrotiri,AKT,LCRA,Cyprus,34.590416,32.987861,76
+Alicante,Alicante,ALC,LEAL,Spain,38.282169,-0.558156,142
+Alta,Alta,ALF,ENAT,Norway,69.976111,23.371667,9
+Albenga,Albenga,ALL,LIMG,Italy,44.050608,8.127428,148
+Schiphol,Amsterdam,AMS,EHAM,Netherlands,52.308613,4.763889,-11
+Amderma Airport,Amderma,AMV,ULDD,Russia,69.7633,61.5564,13
+Angers-Loire Airport,Angers/Marcé,ANE,LFJR,France,47.5603,-0.312222,194
+Brie Champniers,Angouleme,ANG,LFBU,France,45.729247,0.221456,436
+Etimesgut,Ankara,ANK,LTAD,Turkey,39.949831,32.688622,2653
+Deurne,Antwerp,ANR,EBAW,Belgium,51.189444,4.460278,39
+Andenes,Andoya,ANX,ENAN,Norway,69.2925,16.144167,43
+Altenburg Nobitz,Altenburg,AOC,EDAC,Germany,50.981817,12.506361,640
+Anadolu Airport,Eskissehir,AOE,LTBY,Turkey,39.809858,30.519378,2588
+Falconara,Ancona,AOI,LIPY,Italy,43.616389,13.362222,10
+Karpathos,Karpathos,AOK,LGKP,Greece,35.421408,27.146008,66
+Aosta Airport,Aosta,AOT,LIMW,Italy,45.738456,7.368719,1791
+Talagi,Arkhangelsk,ARH,ULAA,Russia,64.360281,40.430167,19
+Arlanda,Stockholm,ARN,ESSA,Sweden,59.651944,17.918611,137
+Arad,Arad,ARW,LRAR,Romania,46.17655,21.262022,352
+Astrakhan,Astrakhan,ASF,URWA,Russia,46.283333,48.006278,-65
+Erkilet,Kayseri,ASR,LTAU,Turkey,38.770386,35.495428,3463
+Eleftherios Venizelos Intl,Athens,ATH,LGAV,Greece,37.936358,23.944467,308
+Augsburg HBF,Augsburg,AUB,AUGS,Germany,48.3655,10.886,1200
+Branches,Auxerre,AUF,LFLA,France,47.850193,3.497111,523
+Aurillac,Aurillac,AUR,LFLW,France,44.891388,2.421944,2096
+Aviano Ab,Aviano,AVB,LIPA,Italy,46.031889,12.596472,410
+Caumont,Avignon,AVN,LFMV,France,43.9073,4.901831,124
+Dimokritos,Alexandroupolis,AXD,LGAL,Greece,40.855869,25.956264,24
+Antalya,Antalya,AYT,LTAI,Turkey,36.898731,30.800461,177
+Batman,Batman,BAL,LTCJ,Turkey,37.928969,41.116583,1822
+Bamberg BF,Bamberg,BAM,BAMB,Germany,49.911,10.9,800
+Tautii Magheraus,Baia Mare,BAY,LRBM,Romania,47.658389,23.470022,605
+Barth,Barth,BBH,EDBH,Germany,54.33754,12.699705,23
+Bautzen,Bautzen,BBJ,EDAB,Germany,51.193531,14.519747,568
+Bembridge,Bembridge,BBP,EGHJ,United Kingdom,50.677778,-1.109444,53
+Blackbushe,Blackbushe,BBS,EGLK,United Kingdom,51.323889,-0.8475,325
+Aurel Vlaicu,Bucharest,BBU,LRBS,Romania,44.503194,26.102111,297
+Bacau,Bacau,BCM,LRBC,Romania,46.521946,26.910278,607
+Barcelona,Barcelona,BCN,LEBL,Spain,41.297078,2.078464,12
+Bandirma,Bandirma,BDM,LTBG,Turkey,40.317972,27.977694,170
+Casale,Brindisi,BDS,LIBR,Italy,40.657633,17.947033,47
+Bardufoss,Bardufoss,BDU,ENDU,Norway,69.055758,18.540356,252
+Benbecula,Benbecula,BEB,EGPL,United Kingdom,57.481111,-7.362778,19
+Beograd,Belgrade,BEG,LYBE,Serbia,44.818444,20.309139,335
+Honington,Honington,BEQ,EGXH,United Kingdom,52.342611,0.772939,174
+Berlin Brandenburg Willy Brandt,Berlin,BER,EDDB,Germany,52.366667,13.503333,154
+Guipavas,Brest,BES,LFRB,France,48.447911,-4.418539,325
+Belfast Intl,Belfast,BFS,EGAA,United Kingdom,54.6575,-6.215833,268
+Braganca,Braganca,BGC,LPBG,Portugal,41.8578,-6.707125,2241
+Bingol,Bingol,BGG,LTCU,Turkey,38.86111,40.5925,3490
+Flesland,Bergen,BGO,ENBR,Norway,60.293386,5.218142,170
+Bergamo Orio Al Serio,Bergamo,BGY,LIME,Italy,45.673889,9.704166,782
+Belfast City,Belfast,BHD,EGAC,United Kingdom,54.618056,-5.8725,15
+Birmingham,Birmingham,BHX,EGBB,United Kingdom,52.453856,-1.748028,327
+Poretta,Bastia,BIA,LFKB,France,42.552664,9.483731,26
+Biessenhofen BF,Biessenhofen,BIE,BIES,Germany,47.851,10.634,1200
+Bilbao,Bilbao,BIO,LEBB,Spain,43.301097,-2.910608,138
+Anglet,Biarritz-bayonne,BIQ,LFBZ,France,43.468419,-1.523325,245
+Batsfjord,Batsfjord,BJF,ENBS,Norway,70.600278,29.6925,490
+Bodrum - Milas,Bodrum,BJV,LTFE,Turkey,37.249,27.667,19
+Talavera La Real,Badajoz,BJZ,LEBZ,Spain,38.89125,-6.821333,609
+Bykovo,Moscow,BKA,UUBB,Russia,55.617222,38.059999,427
+Borlange,Borlange,BLE,ESSD,Sweden,60.422017,15.515211,503
+Blackpool,Blackpool,BLK,EGNH,United Kingdom,53.771667,-3.028611,34
+Billund,Billund,BLL,EKBI,Denmark,55.740322,9.151778,247
+Bologna,Bologna,BLQ,LIPE,Italy,44.535444,11.288667,123
+Bromma,Stockholm,BMA,ESSB,Sweden,59.354372,17.94165,47
+Borkum,Borkum,BMK,EDWR,Germany,53.5955,6.709167,3
+Bronnoy,Bronnoysund,BNN,ENBN,Norway,65.461111,12.2175,25
+Banja Luka International Airport,Banja Luka,BNX,LQBK,Bosnia and Herzegovina,44.941444,17.297501,400
+Merignac,Bordeaux,BOD,LFBD,France,44.828335,-0.715556,162
+Bournemouth,Bournemouth,BOH,EGHH,United Kingdom,50.78,-1.8425,38
+Burgas,Bourgas,BOJ,LBBG,Bulgaria,42.569583,27.515236,135
+Bodo,Bodo,BOO,ENBO,Norway,67.269167,14.365278,42
+Fontaine Airport,Belfort,BOR,LFSQ,France,47.6556015,7.0108299,3663
+Bourges,Bourges,BOU,LFLD,France,47.058056,2.370278,529
+Bochum HBF,Bochum,BOX,BOCH,Germany,51.478506,7.2222,1000
+Biggin Hill,Biggin Hill,BQH,EGKB,United Kingdom,51.330833,0.0325,598
+Brest,Brest,BQT,UMBB,Belarus,52.06,23.53,468
+Neuenland,Bremen,BRE,EDDW,Germany,53.0475,8.786667,14
+Bari,Bari,BRI,LIBD,Italy,41.138856,16.760594,177
+Bern Belp,Bern,BRN,LSZB,Switzerland,46.9141,7.497153,1674
+Turany,Brno,BRQ,LKTB,Czech Republic,49.151269,16.694433,778
+Barra Airport,Barra,BRR,EGPR,United Kingdom,57.0228,-7.44306,5
+Bristol,Bristol,BRS,EGGD,United Kingdom,51.382669,-2.719089,622
+Brussels Natl,Brussels,BRU,EBBR,Belgium,50.901389,4.484444,184
+Bremerhaven,Bremerhaven,BRV,EDWB,Germany,53.507081,8.572878,11
+M R Stefanik,Bratislava,BTS,LZIB,Slovakia,48.170167,17.212667,436
+Bursa Airport,Bursa,BTZ,LTBE,Turkey,40.2332993,29.0091991,772
+Ferihegy,Budapest,BUD,LHBP,Hungary,47.436933,19.255592,495
+Buchloe BF,Buchloe,BUH,BUCH,Germany,48.0411,10.715,1200
+Tille,Beauvais,BVA,LFOB,France,49.454444,2.112778,359
+La Roche,Brive,BVE,LFSL,France,45.150833,1.469167,379
+Berlevag,Berlevag,BVG,ENBV,Norway,70.866667,29,43
+Braunschweig Wolfsburg,Braunschweig,BWE,EDVE,Germany,52.319167,10.556111,295
+Walney Island,Barrow Island,BWF,EGNL,United Kingdom,54.131167,-3.263667,173
+Brac,Brac,BWK,LDSB,Croatia,43.285719,16.679719,1776
+Balakovo Airport,Balakovo,BWO,UWSB,Russia,51.8583,47.7456,95
+Imsik,Bodrum,BXN,LTBV,Turkey,37.140144,27.669717,202
+Buochs Airport,Buochs,BXO,LSZC,Switzerland,46.9725,8.398611,1464
+Bantry Aerodrome,Bantry,BYT,EIBN,Ireland,51.668598,-9.48417,7
+Bayreuth,Bayreuth,BYU,EDQD,Germany,49.984428,11.638569,1601
+Bydgoszcz Ignacy Jan Paderewski Airport,Bydgoszcz,BZG,EPBY,Poland,53.0968,17.9777,235
+Balikesir,Balikesir,BZI,LTBF,Turkey,39.619258,27.925958,340
+Bryansk,Bryansk,BZK,UUBP,Russia,53.214194,34.176447,663
+Bolzano,Bolzano,BZO,LIPB,Italy,46.460194,11.326383,789
+Vias,Beziers,BZR,LFMU,France,43.323522,3.353903,56
+Brize Norton,Brize Norton,BZZ,EGVN,United Kingdom,51.749964,-1.583617,288
+Elmas,Cagliari,CAG,LIEE,Italy,39.251469,9.054283,13
+Campbeltown Airport,Campbeltown,CAL,EGEC,United Kingdom,55.4372,-5.68639,42
+Carlisle,Carlisle,CAX,EGNC,United Kingdom,54.9375,-2.809167,190
+Cambridge,Cambridge,CBG,EGSC,United Kingdom,52.205,0.175,47
+Salvaza,Carcassonne,CCF,LFMK,France,43.215978,2.306317,433
+Charles De Gaulle,Paris,CDG,LFPG,France,49.012779,2.55,392
+Cherepovets Airport,Cherepovets,CEE,ULBC,Russia,59.2736,38.0158,377
+Hawarden,Hawarden,CEG,EGNR,United Kingdom,53.178056,-2.977778,45
+Chernigov,Chernigov,CEJ,UKRR,Ukraine,51.24,31.09,446
+Mandelieu,Cannes,CEQ,LFMD,France,43.54205,6.953478,13
+Maupertus,Cherbourg,CER,LFRC,France,49.650106,-1.470281,459
+Le Pontreau,Cholet,CET,LFOU,France,47.082136,-0.877064,443
+Auvergne,Clermont-Ferrand,CFE,LFLC,France,45.786661,3.169169,1090
+Donegal Airport,Dongloe,CFN,EIDL,Ireland,55.044192,-8.341,30
+Carpiquet,Caen,CFR,LFRK,France,49.173333,-0.45,256
+Ioannis Kapodistrias Intl,Kerkyra/corfu,CFU,LGKR,Greece,39.601944,19.911667,6
+Koln Bonn,Cologne,CGN,EDDK,Germany,50.865917,7.142744,302
+Souda,Chania,CHQ,LGSA,Greece,35.531747,24.149678,490
+Deols,Chateauroux,CHR,LFLX,France,46.862194,1.730667,529
+Ciampino,Rome,CIA,LIRA,Italy,41.799361,12.594936,427
+Aeroclub Cioca,Timisoara,CIO,LRT2,Romania,45.471009,21.111967,280
+Comiso,Comiso,CIY,LICB,Italy,37,14.6144,756
+Cherkassy,Cherkassy,CKC,UKKE,Ukraine,49.416666,32.1333,114
+Chkalovsky Airport,Shchyolkovo,CKL,UUMU,Russia,55.878333,38.061667,152
+Canakkale Airport,Canakkale,CKZ,LTBH,Turkey,40.137722,26.426777,23
+Cluj Napoca,Cluj-napoca,CLJ,LRCL,Romania,46.785167,23.686167,1036
+Saint Catherine,Calvi,CLY,LFKC,France,42.530753,8.793189,209
+Aix Les Bains,Chambery,CMF,LFLB,France,45.63805,5.880225,779
+Houssen,Colmar,CMR,LFGA,France,48.109853,7.359011,628
+Mihail Kogalniceanu,Constanta,CND,LRCK,Romania,44.362222,28.488333,353
+Chateaubernard,Cognac,CNG,LFBG,France,45.658333,-0.3175,102
+Sindal Airport,Sindal,CNL,EKSN,Denmark,57.503525,10.229372,92
+Kastrup,Copenhagen,CPH,EKCH,Denmark,55.617917,12.655972,17
+Calais Dunkerque,Calais,CQF,LFAC,France,50.962097,1.954764,12
+Ciudad Real Central Airport,Ciudad Real,CQM,LERL,Spain,38.856389,-3.97,636
+Craiova,Craiova,CRA,LRCV,Romania,44.318139,23.888611,626
+Brussels South,Charleroi,CRL,EBCI,Belgium,50.459197,4.453817,614
+Crotone,Crotone,CRV,LIBC,Italy,38.997225,17.080169,521
+Colonsay Airport,Colonsay,CSA,EGEY,United Kingdom,56.0575,-6.243056,44
+Caransebes,Caransebes,CSB,LRCS,Romania,45.42,22.253333,866
+Creil,Creil,CSF,LFPC,France,49.253547,2.519139,291
+Solovki Airport,Solovetsky Islands,CSH,ULAS,Russia,65.03,35.7333,0
+Magdeburg-Cochstedt,Cochstedt,CSO,EDBC,Germany,51.855833,11.418333,596
+Cheboksary Airport,Cheboksary,CSY,UWKS,Russia,56.0903,47.3473,558
+Catania Fontanarossa,Catania,CTA,LICC,Italy,37.466781,15.0664,39
+Le Castellet,Le Castellet,CTT,LFMQ,France,43.252506,5.785189,1391
+Levaldigi,Cuneo,CUF,LIMZ,Italy,44.547019,7.623217,1267
+Courchevel Airport,Courcheval,CVF,LFLJ,France,45.3967,6.63472,6588
+Coventry,Coventry,CVT,EGBE,United Kingdom,52.369722,-1.479722,267
+Chernivtsi International Airport,Chernovtsk,CWC,UKLN,Ukraine,48.259322,25.980831,826
+Cardiff,Cardiff,CWL,EGFF,United Kingdom,51.396667,-3.343333,220
+RUDNIKI,RUDNIKI,CZW,EPRU,Poland,50.884722,19.202222,262
+Dubrovnik,Dubrovnik,DBV,LDDU,Croatia,42.561353,18.268244,527
+Decimomannu,Decimomannu,DCI,LIED,Italy,39.354222,8.972481,100
+Mazamet,Castres,DCM,LFCK,France,43.55625,2.289183,788
+Debrecen,Debrecen,DEB,LHDC,Hungary,47.488917,21.615333,359
+De Kooy,De Kooy,DHR,EHKD,Netherlands,52.923353,4.780625,3
+Longvic,Dijon,DIJ,LFSD,France,47.26889,5.09,726
+Diyarbakir,Diyabakir,DIY,LTCC,Turkey,37.893897,40.201019,2251
+Tavaux,Dole,DLE,LFGJ,France,47.039014,5.42725,645
+Dalaman,Dalaman,DLM,LTBS,Turkey,36.713056,28.7925,20
+Domododevo,Moscow,DME,UUDD,Russia,55.408611,37.906111,588
+Dundee,Dundee,DND,EGPN,United Kingdom,56.452499,-3.025833,17
+Dnipropetrovsk Intl,Dnepropetrovsk,DNK,UKDD,Ukraine,48.357222,35.100556,481
+Pleurtuit,Dinard,DNR,LFRD,France,48.587683,-2.079958,219
+Cardak,Denizli,DNZ,LTAY,Turkey,37.785567,29.701297,2795
+Donetsk Intl,Donetsk,DOK,UKCC,Ukraine,48.073611,37.739722,791
+St Gatien,Deauville,DOL,LFRG,France,49.365339,0.154306,479
+Dresden,Dresden,DRS,EDDC,Germany,51.132767,13.767161,755
+Robin Hood Doncaster Sheffield Airport,"Doncaster, Sheffield",DSA,EGCN,United Kingdom,53.474722,-1.004444,55
+Dortmund,Dortmund,DTM,EDLW,Germany,51.518314,7.612242,425
+Dublin,Dublin,DUB,EIDW,Ireland,53.421333,-6.270075,242
+Dusseldorf,Duesseldorf,DUS,EDDL,Germany,51.289453,6.766775,147
+San Sebastian,San Sebastian,EAS,LESO,Spain,43.356519,-1.790611,15
+Marina Di Campo,Marina Di Campo,EBA,LIRJ,Italy,42.760277,10.239445,31
+Ebenhofen BF,Ebenhofen,EBE,EBEN,Germany,47.824,10.623,1200
+Esbjerg,Esbjerg,EBJ,EKEB,Denmark,55.525942,8.553403,97
+Boutheon,St-Etienne,EBU,LFMH,France,45.540554,4.296389,1325
+Edinburgh,Edinburgh,EDI,EGPH,United Kingdom,55.95,-3.3725,135
+Les Ajoncs,La Roche-sur-yon,EDM,LFRI,France,46.701944,-1.378625,299
+Balikesir Korfez Airport,Balikesir Korfez,EDO,LTFD,Turkey,39.5546,27.0138,50
+Kefallinia,Keffallinia,EFL,LGKF,Greece,38.120069,20.500481,59
+Roumaniere,Bergerac,EGC,LFBE,France,44.825279,0.518611,171
+Belgorod International Airport,Belgorod,EGO,UUOB,Russia,50.6438,36.5901,735
+Eindhoven,Eindhoven,EIN,EHEH,Netherlands,51.450139,5.374528,74
+Nottingham East Midlands,East Midlands,EMA,EGNX,United Kingdom,52.831111,-1.328056,306
+Emden,Emden,EME,EDWE,Germany,53.391186,7.227408,2
+Essey,Nancy,ENC,LFSN,France,48.692069,6.230458,751
+Enontekio,Enontekio,ENF,EFET,Finland,68.362586,23.424322,1005
+St Angelo,Enniskillen,ENK,EGAB,United Kingdom,54.398889,-7.651667,155
+Twenthe,Enschede,ENS,EHTW,Netherlands,52.27,6.874167,114
+Eday Airport,Eday,EOI,EGED,United Kingdom,59.1906,-2.77222,10
+Mirecourt,Epinal,EPL,LFSG,France,48.324961,6.069983,1084
+Parnu,Parnu,EPU,EEPU,Estonia,58.419044,24.472819,47
+Erzincan,Erzincan,ERC,LTCD,Turkey,39.710203,39.527003,3783
+Erfurt,Erfurt,ERF,EDDE,Germany,50.979811,10.958106,1036
+Erzurum,Erzurum,ERZ,LTCE,Turkey,39.956501,41.170166,5763
+Esenboga,Ankara,ESB,LTAC,Turkey,40.128082,32.995083,3125
+Shoreham,Shoreham By Sea,ESH,EGKA,United Kingdom,50.835556,-0.297222,7
+Eskisehir,Eskisehir,ESK,LTBI,Turkey,39.784138,30.582111,2581
+Elista Airport,Elista,ESL,URWI,Russia,46.3739,44.3309,501
+Essen Mulheim,Essen,ESS,EDLE,Germany,51.402333,6.937333,424
+Essen HBF,Essen,ESX,ESSE,Germany,51.451389,7.0138,1000
+Metz Nancy Lorraine,Metz,ETZ,LFJL,France,48.982142,6.251319,870
+Neumuenster,Neumuenster,EUM,EDHN,Germany,54.079069,9.941719,69
+Evenes,Harstad/Narvik,EVE,ENEV,Norway,68.4913,16.678108,84
+Sveg,Sveg,EVG,ESND,Sweden,62.047811,14.42295,1178
+Exeter,Exeter,EXT,EGTE,United Kingdom,50.734444,-3.413889,102
+Elazig,Elazig,EZS,LTCA,Turkey,38.606925,39.291417,2927
+Farnborough,Farnborough,FAB,EGLF,United Kingdom,51.275833,-0.776333,238
+Lista,Farsund,FAN,ENLI,Norway,58.099486,6.62605,29
+Faro,Faro,FAO,LPFR,Portugal,37.014425,-7.965911,24
+Fornebu,Oslo,FBU,ENFB,Norway,59.883333,10.616667,56
+Fiumicino,Rome,FCO,LIRF,Italy,41.804475,12.250797,15
+Friedrichshafen,Friedrichshafen,FDH,EDNY,Germany,47.671317,9.511486,1367
+Furstenfeldbruck,Fuerstenfeldbruck,FEL,ETSF,Germany,48.205667,11.267,1703
+Fairford,Fairford,FFD,EGVA,United Kingdom,51.682167,-1.790028,286
+Fair Isle Airport,Fair Isle,FIE,EGEF,United Kingdom,59.5358,-1.62806,223
+Baden Airpark,Karl Ssruhe/Baden-Baden,FKB,EDSB,Germany,48.7793,8.08048,407
+Flensburg Schaferhaus,Flensburg,FLF,EDXF,Germany,54.771772,9.378214,130
+Firenze,Florence,FLR,LIRQ,Italy,43.809953,11.2051,142
+Allgau,Memmingen,FMM,EDJA,Germany,47.988758,10.2395,2077
+Munster Osnabruck,Munster,FMO,EDDG,Germany,52.134642,7.684831,160
+Madeira,Funchal,FNC,LPMA,Portugal,32.697889,-16.774453,192
+Garons,Nimes,FNI,LFTW,France,43.757444,4.416347,309
+Fenosu,Oristano,FNU,LIER,Italy,39.895,8.6383,36
+Gino Lisa,Foggia,FOG,LIBF,Italy,41.432917,15.535028,266
+Frankfurt Main,Frankfurt,FRA,EDDF,Germany,50.026421,8.543125,364
+Frejus Saint Raphael,Frejus,FRJ,LFTU,France,43.416667,6.733333,7
+Forli,Forli,FRL,LIPK,Italy,44.194753,12.070094,97
+Floro,Floro,FRO,ENFL,Norway,61.583611,5.024722,37
+Sud Corse,Figari,FSC,LFKF,France,41.500557,9.097777,87
+Fussen,Fussen,FUS,FUSS,Germany,47.585,10.6866,800
+Fussen BF,Fussen,FUX,FUSN,Germany,47.585,10.6866,1200
+Bristol Filton,Bristol,FZO,EGTG,United Kingdom,51.519444,-2.590833,226
+Guernsey,Guernsey,GCI,EGJB,Guernsey,49.434956,-2.601969,336
+Lech Walesa,Gdansk,GDN,EPGD,Poland,54.377569,18.466222,489
+Gallivare,Gallivare,GEV,ESNG,Sweden,67.132408,20.814636,1027
+Granville,Granville,GFR,LFRF,France,48.883057,-1.564167,45
+Giebelstadt Aaf,Giebelstadt,GHF,ETEU,Germany,49.648131,9.966494,980
+Gibraltar,Gibraltar,GIB,LXGB,Gibraltar,36.151219,-5.349664,15
+Geilenkirchen,Geilenkirchen,GKE,ETNG,Germany,50.960817,6.042422,296
+Glasgow,Glasgow,GLA,EGPF,United Kingdom,55.871944,-4.433056,26
+Gloucestershire,Golouchestershire,GLO,EGBJ,United Kingdom,51.894167,-2.167222,101
+Gomel,Gomel,GME,UMGG,Belarus,52.527022,31.016692,471
+Gostomel Antonov,Kiev,GML,UKKM,Ukraine,50.603611,30.191944,517
+Hrodno Airport,Hrodna,GNA,UMMG,Belarus,53.602,24.0538,443
+Saint Geoirs,Grenoble,GNB,LFLS,France,45.362944,5.329375,1302
+Sanliurfa GAP,Sanliurfa,GNY,LTCS,Turkey,37.45,38.9,2700
+Genova Sestri,Genoa,GOA,LIMJ,Italy,44.413333,8.8375,13
+Nizhny Novgorod,Nizhniy Novgorod,GOJ,UWGG,Russia,56.230119,43.784042,256
+Landvetter,Gothenborg,GOT,ESGG,Sweden,57.662836,12.279819,506
+Gorna Oryahovitsa,Gorna Orechovica,GOZ,LBGO,Bulgaria,43.151444,25.712889,285
+Araxos,Patras,GPA,LGRX,Greece,38.151111,21.425556,46
+Girona,Gerona,GRO,LEGE,Spain,41.900969,2.760547,468
+Eelde,Groningen,GRQ,EHGG,Netherlands,53.11972,6.579444,17
+Grosseto,Grosseto,GRS,LIRS,Italy,42.759747,11.071897,15
+Grozny Airport,Grozny,GRV,URMG,Russia,43.2981,45.7841,548
+Granada,Granada,GRX,LEGR,Spain,37.188731,-3.777356,1860
+Graz,Graz,GRZ,LOWG,Austria,46.991067,15.439628,1115
+Save,Gothenborg,GSE,ESGP,Sweden,57.774722,11.870372,59
+Guettin MecklenburgVorpommern Germany,Ruegen,GTI,EDCG,Germany,54.383333,13.325278,69
+Gutersloh,Guetersloh,GUT,ETUO,Germany,51.922833,8.306333,236
+Geneve Cointrin,Geneva,GVA,LSGG,Switzerland,46.238064,6.10895,1411
+Gavle,Gavle,GVX,ESSK,Sweden,60.593333,16.951389,224
+Westerland Sylt,Westerland,GWT,EDXW,Germany,54.91325,8.340472,51
+Galway,Galway,GWY,EICM,Ireland,53.300175,-8.941592,81
+Xewkija Heliport,Gozo,GZM,LMMG,Malta,36.027222,14.272778,300
+Gazipasa Airport,Alanya,GZP,LTFG,Turkey,36.2993,32.3014,92
+Oguzeli,Gaziantep,GZT,LTAJ,Turkey,36.947183,37.478683,2315
+Hasvik,Hasvik,HAA,ENHK,Norway,70.486675,22.139744,21
+Halmstad,Halmstad,HAD,ESMT,Sweden,56.691128,12.820211,101
+Hannover,Hannover,HAJ,EDDV,Germany,52.461056,9.685078,183
+Hamburg,Hamburg,HAM,EDDH,Germany,53.630389,9.988228,53
+Karmoy,Haugesund,HAU,ENHD,Norway,59.345267,5.208364,86
+Heidelberg,Heidelberg,HDB,EDIU,Germany,49.393333,8.6525,0
+Heringsdorf Airport,Heringsdorf,HDF,EDAH,Germany,53.878706,14.152347,93
+Heide-Büsum Airport,Büsum,HEI,EDXB,Germany,54.1533,8.90167,7
+Helsinki Vantaa,Helsinki,HEL,EFHK,Finland,60.317222,24.963333,179
+Helsinki Malmi,Helsinki,HEM,EFHF,Finland,60.254558,25.042828,57
+Hernesaari Heliport,Helsinki,HEN,EFHE,Finland,60.1478,24.9244,7
+Nikos Kazantzakis,Heraklion,HER,LGIR,Greece,35.339719,25.180297,115
+Hagfors Airport,Hagfors,HFS,ESOH,Sweden,60.020064,13.578908,474
+Hammerfest Airport,Hammerfest,HFT,ENHF,Norway,70.679722,23.668889,799
+Frankfurt Hahn,Hahn,HHN,EDFH,Germany,49.948672,7.263892,1649
+Uzundzhovo,Haskovo,HKV,LB14,Bulgaria,41.976375,25.589817,160
+Hultsfred,Hultsfred,HLF,ESSF,Sweden,57.525833,15.823333,366
+Barysiai,Barysiai,HLJ,EYSB,Lithuania,56.070556,23.558056,270
+Anglesey Airport,Angelsey,HLY,EGOV,United Kingdom,53.248097,-4.535339,37
+Khmeinitskiy,Khmeinitskiy,HMJ,UKLH,Ukraine,49.366,26.933,351
+Stafsberg Airport,Hamar,HMR,ENHA,Norway,60.8181,11.068,713
+Hemavan Airport,Hemavan,HMV,ESUT,Sweden,65.806111,15.082778,1503
+Hohenems,Hohenems,HOJ,LOIH,Austria,47.385,9.7,412
+Hof Plauen,Hof,HOQ,EDQM,Germany,50.288836,11.854919,1960
+Hovden,Orsta-Volda,HOV,ENOV,Norway,62.18,6.0742,242
+Osnova International Airport,Kharkov,HRK,UKHH,Ukraine,49.924786,36.289986,508
+Huesca-Pirineos Airport,Huesca,HSK,LEHC,Spain,42.080833,-0.323333,1768
+Hatay Airport,Hatay,HTY,LTDA,Turkey,36.362778,36.282222,25
+Hudiksvall,Hudiksvall,HUV,ESNH,Sweden,61.768092,17.080719,95
+Humberside,Humberside,HUY,EGNJ,United Kingdom,53.574444,-0.350833,121
+Valan,Honningsvag,HVG,ENHV,Norway,70.99,25.83,46
+Hyvinkaa,Hyvinkaa,HYV,EFHV,Finland,60.654444,24.881111,430
+Tunoshna,Yaroslavl,IAR,UUDL,Russia,57.56066668,40.15736945,270
+Iasi,Iasi,IAS,LRIA,Romania,47.178492,27.620631,397
+Ibiza,Ibiza,IBZ,LEIB,Spain,38.872858,1.373117,20
+Île d'Yeu Airport,Île d'Yeu,IDY,LFEY,France,46.718611,-2.391111,79
+Babimost,Zielona Gora,IEG,EPZG,Poland,52.138517,15.798556,194
+Zhuliany Intl,Kiev,IEV,UKKK,Ukraine,50.401694,30.449697,586
+Ivano Frankivsk International Airport,Ivano-Frankivsk,IFO,UKLI,Ukraine,48.884167,24.686111,919
+Igdir,Igdir,IGD,LTCT,Turkey,39.983056,43.866389,3100
+Cigli,Izmir,IGL,LTBL,Turkey,38.513022,27.010053,16
+Ingolstadt BF,Ingolstadt,IGS,INGS,Germany,48.7777,11.422,888
+Inishmaan Aerodrome,Inishmaan,IIA,EIMN,Ireland,53.091944,-9.57,13
+Izhevsk Airport,Izhevsk,IJK,USII,Russia,56.8281,53.4575,531
+Lleida-Alguaire Airport,Lleida,ILD,LEDA,Spain,41.727778,0.535833,1148
+Islay,Islay,ILY,EGPI,United Kingdom,55.681944,-6.256667,56
+Žilina Airport,Žilina,ILZ,LZZI,Slovakia,49.231528,18.6135,1020
+Nis,Nis,INI,LYNI,Serbia,43.337289,21.853722,648
+Innsbruck,Innsbruck,INN,LOWI,Austria,47.260219,11.343964,1906
+Inisheer,Inisheer,INQ,EIIR,Ireland,53.0647,-9.5109,40
+Inverness,Inverness,INV,EGPE,United Kingdom,57.5425,-4.0475,31
+Ioannina,Ioannina,IOA,LGIO,Greece,39.696388,20.8225,1558
+Isle Of Man,Isle Of Man,IOM,EGNS,Isle of Man,54.083333,-4.623889,52
+Inishmore Airport,Inis Mor,IOR,EIIM,Ireland,53.1067,-9.65361,24
+Isparta Süleyman Demirel Airport,Isparta,ISE,LTFC,Turkey,37.8554,30.3684,2835
+Ataturk,Istanbul,IST,LTBA,Turkey,40.976922,28.814606,163
+Ivalo,Ivalo,IVL,EFIV,Finland,68.607269,27.405328,481
+Yuzhny,Ivanovo,IWA,UUBI,Russia,56.939444,40.940833,410
+Ceuta Heliport,Ceuta,JCU,GECT,Spain,35.8969,-5.29908,0
+Jersey,Jersey,JER,EGJJ,Jersey,49.207947,-2.195508,277
+Ikaria,Ikaria,JIK,LGIK,Greece,37.682717,26.347061,79
+Jonkoping,Joenkoeping,JKG,ESGJ,Sweden,57.757594,14.068731,741
+Chios,Chios,JKH,LGHI,Greece,38.343175,26.140572,15
+Kalymnos Island,Kalymnos,JKL,LGKY,Greece,36.963333,26.940556,771
+Landskrona,Landskrona,JLD,ESML,Sweden,55.944444,12.869444,194
+Mikonos,Mykonos,JMK,LGMK,Greece,37.435128,25.348103,405
+Naxos,Cyclades Islands,JNX,LGNX,Greece,37.080556,25.368056,10
+Joensuu,Joensuu,JOE,EFJO,Finland,62.662906,29.60755,398
+Yoshkar-Ola Airport,Yoshkar-Ola,JOK,UWKJ,Russia,56.7006,47.9047,348
+Sitia,Sitia,JSH,LGST,Greece,35.216108,26.101325,376
+Alexandros Papadiamantis,Skiathos,JSI,LGSK,Greece,39.1771,23.503675,54
+Syros Airport,Syros Island,JSY,LGSO,Greece,37.422792,24.950936,236
+Santorini,Thira,JTR,LGSR,Greece,36.399169,25.479333,127
+Astypalaia,Astypalaia,JTY,LGPL,Greece,36.579886,26.375822,165
+Verkehrslandeplatz Juist,Juist,JUI,EDWJ,Germany,53.681572,7.055731,6
+Jyvaskyla,Jyvaskyla,JYV,EFJY,Finland,62.399453,25.678253,459
+Kajaani,Kajaani,KAJ,EFKI,Finland,64.285472,27.692414,483
+Kuusamo,Kuusamo,KAO,EFKS,Finland,65.987575,29.239381,866
+Kauhava,Kauhava,KAU,EFKA,Finland,63.127078,23.051442,151
+Boryspil Intl,Kiev,KBP,UKBB,Ukraine,50.345,30.894722,427
+Kurumoch,Samara,KBY,UWWW,Russia,53.504858,50.164336,477
+Kahramanmaras Airport,Kahramanmaras,KCM,LTCN,Turkey,37.539,36.9534,1723
+Kardla,Kardla,KDL,EEKA,Estonia,58.990756,22.830733,18
+Kiel Holtenau,Kiel,KEL,EDHK,Germany,54.3795,10.145167,101
+Kemi Tornio,Kemi,KEM,EFKE,Finland,65.781889,24.5991,61
+Halli,Halli,KEV,EFHA,Finland,61.85605,24.7866,479
+Kempten HBF,Kempten,KEX,KEMP,Germany,47.724,10.311,1200
+Uzunyazi,Kastamonu,KFS,LTAL,Turkey,41.316944,33.796111,3520
+Kaufbeuren BF,Kaufbeuren,KFX,KAUF,Germany,47.885,10.6294,1200
+Khrabrovo,Kaliningrad,KGD,UMKK,Russia,54.89005,20.592633,42
+Kirovograd,Kirovograd,KGO,UKKG,Ukraine,48.54,32.29,510
+Kos,Kos,KGS,LGKO,Greece,36.793335,27.091667,412
+Kerch Intl,Kerch,KHC,UKFK,Ukraine,45.372869,36.402761,152
+Chernobayevka Airport,Kherson,KHE,UKOH,Ukraine,46.6758,32.5064,148
+Kristianstad,Kristianstad,KID,ESMK,Sweden,55.921686,14.085536,76
+KIEV INTERNATIONAL AIRPORT,KIEV,KIP,KIEV,Ukraine,50.1403,30.1808,250
+Kerry,Kerry,KIR,EIKY,Ireland,52.180878,-9.523783,112
+Kithira,Kithira,KIT,LGKC,Greece,36.274258,23.016978,1045
+Chisinau Intl,Chisinau,KIV,LUKK,Moldova,46.927744,28.930978,399
+Hoybuktmoen,Kirkenes,KKN,ENKR,Norway,69.725781,29.891295,283
+Migalovo,Tver,KLD,UUEM,Russia,56.824736,35.757678,469
+Grabtsevo,Kaluga,KLF,UUBS,Russia,54.55,36.367,600
+Kalmar,Kalkmar,KLR,ESMQ,Sweden,56.685531,16.287578,17
+Woerthersee International Airport,Klagenfurt,KLU,LOWK,Austria,46.642514,14.337739,452
+Karl Sovy Vary,Karl Sovy Vary,KLV,LKKV,Czech Republic,50.202978,12.914983,1989
+Kalamata,Kalamata,KLX,LGKL,Greece,37.068319,22.025525,26
+Sokerkino,Kostroma,KMW,UUBD,Russia,57.7961,41.0204,446
+Marham,Marham,KNF,EGYM,United Kingdom,52.648353,0.550692,75
+Knokke-Heist Westkapelle Heliport,Knokke,KNO,EBKW,Belgium,51.3222,3.29306,0
+Kirkwall,Kirkwall,KOI,EGPA,United Kingdom,58.957778,-2.905,50
+Kruunupyy,Kruunupyy,KOK,EFKK,Finland,63.721172,23.143131,84
+Koln HBF,Koln,KOX,KOLN,Germany,50.9425,6.958056,1000
+Kramfors Solleftea,Kramfors,KRF,ESNK,Sweden,63.048597,17.768856,34
+Redhill Aerodrome,Redhill,KRH,EGKR,United Kingdom,51.213612,-0.13861,221
+Balice,Krakow,KRK,EPKK,Poland,50.077731,19.784836,791
+Kiruna,Kiruna,KRN,ESNQ,Sweden,67.821986,20.336764,1508
+Karup,Karup,KRP,EKKA,Denmark,56.297458,9.124628,170
+Pashkovskiy,Krasnodar,KRR,URKK,Russia,45.034689,39.170539,118
+Kjevik,Kristiansand,KRS,ENCN,Norway,58.204214,8.085369,57
+Kosice,Kosice,KSC,LZKZ,Slovakia,48.663055,21.241112,755
+Karl Sstad Airport,Karl Sstad,KSD,ESOK,Sweden,59.4447,13.3374,352
+Kassel Calden,Kassel,KSF,EDVK,Germany,51.408394,9.377631,908
+Kasos,Kasos,KSJ,LGKS,Greece,35.421358,26.910047,35
+Karl Sskoga,Karl Sskoga,KSK,ESKK,Sweden,59.345867,14.495922,400
+Aristotelis,Kastoria,KSO,LGKA,Greece,40.446294,21.282186,2167
+Kvernberget,Kristiansund,KSU,ENKB,Norway,63.111781,7.824522,204
+Kars Airport,Kars,KSY,LTCF,Turkey,40.562222,43.115002,5889
+Kotlas Airport,Kotlas,KSZ,ULKK,Russia,61.2358,46.6975,184
+Kittila,Kittila,KTT,EFKT,Finland,67.701022,24.84685,644
+Pyrzowice,Katowice,KTW,EPKT,Poland,50.474253,19.080019,995
+Kaunas Intl,Kaunas,KUN,EYKA,Lithuania,54.963919,24.084778,256
+Kuopio,Kuopio,KUO,EFKU,Finland,63.00715,27.797756,323
+Megas Alexandros Intl,Kavala,KVA,LGKV,Greece,40.913306,24.619223,18
+Skovde,Skovde,KVB,ESGR,Sweden,58.4564,13.972672,324
+Kirovsk-Apatity Airport,Apatity,KVK,ULMK,Russia,67.4633,33.5883,515
+Pobedilovo Airport,Kirov,KVX,USKK,Russia,58.5033,49.3483,479
+Lozuvatka International Airport,Krivoy Rog,KWG,UKDR,Ukraine,48.0433,33.21,408
+Konya,Konya,KYA,LTAN,Turkey,37.979,32.561861,3381
+Filippos,Kozani,KZI,LGKZ,Greece,40.28611,21.840834,2059
+Kazan,Kazan,KZN,UWKD,Russia,55.606186,49.278728,411
+Zafer,Kutahya,KZR,LTBZ,Turkey,39.111389,30.13,3327
+Kastelorizo,Kastelorizo,KZS,LGKJ,Greece,36.127777,29.566656,474
+Lannion,Lannion,LAI,LFRO,France,48.754378,-3.471656,290
+Leeds Bradford,Leeds,LBA,EGNM,United Kingdom,53.865897,-1.660569,681
+Lubeck Blankensee,Luebeck,LBC,EDHL,Germany,53.805367,10.719222,53
+Le Bourget,Paris,LBG,LFPB,France,48.969444,2.441389,218
+Le Sequestre,Albi,LBI,LFCI,France,43.913887,2.113056,564
+Lecce,Lecce,LCC,LIBN,Italy,40.239228,18.133325,156
+A Coruna,La Coruna,LCG,LECO,Spain,43.302061,-8.377256,326
+?ód? W?adys?aw Reymont Airport,Lodz,LCJ,EPLL,Poland,51.721881,19.398133,604
+City,London,LCY,EGLC,United Kingdom,51.505278,0.055278,19
+Lourdes,Tarbes,LDE,LFBT,France,43.178675,-0.006439,1260
+Leshukonskoye Airport,Arkhangelsk,LDG,ULAL,Russia,64.895833,45.722778,220
+Lidkoping,Lidkoping,LDK,ESGL,Sweden,58.465522,13.174414,200
+City of Derry,Londonderry,LDY,EGAE,United Kingdom,55.042778,-7.161111,22
+Pulkovo,St. Petersburg,LED,ULLI,Russia,59.800292,30.262503,78
+Octeville,Le Havre,LEH,LFOH,France,49.533889,0.088056,312
+Almeria,Almeria,LEI,LEAM,Spain,36.843936,-2.370097,70
+Leipzig Halle,Leipzig,LEJ,EDDP,Germany,51.432447,12.241633,465
+Leon Airport,Leon,LEN,LELN,Spain,42.589,-5.655556,3006
+Land's End / St. Just Airport,Land's End,LEQ,EGHC,United Kingdom,50.1028,-5.67056,401
+Leuterschach BF,Leuterschach,LES,LEUT,Germany,47.75,10.601,1200
+Seo De Urgel,Seo De Urgel,LEU,LESU,Spain,42.338611,1.409167,2625
+Liege,Liege,LGG,EBLG,Belgium,50.637417,5.443222,659
+Langeoog Airport,Langeoog,LGO,EDWL,Germany,53.7425,7.49778,7
+Gatwick,London,LGW,EGKK,United Kingdom,51.148056,-0.190278,202
+Lahr Airport,Lahr,LHA,EDTL,Germany,48.3693,7.82772,511
+Heathrow,London,LHR,EGLL,United Kingdom,51.4775,-0.461389,83
+Valkenburg,Valkenburg,LID,EHVB,Netherlands,52.166139,4.417944,0
+Bellegarde,Limoges,LIG,LFBL,France,45.862778,1.179444,1300
+Lesquin,Lille,LIL,LFQQ,France,50.561942,3.089444,157
+Linate,Milan,LIN,LIML,Italy,45.445103,9.276739,353
+Lisboa,Lisbon,LIS,LPPT,Portugal,38.781311,-9.135919,374
+Ljubljana,Ljubljana,LJU,LJLJ,Slovenia,46.223686,14.457611,1273
+Banak,Lakselv,LKL,ENNA,Norway,70.068814,24.973489,25
+Leknes Airport,Leknes,LKN,ENLK,Norway,68.1525,13.6094,78
+Sazena,Sazena,LKS,LKSZ,Czech Republic,50.1929,14.1532,233
+Kallax,Lulea,LLA,ESPA,Sweden,65.543758,22.121989,65
+Arnage,Le Mans,LME,LFRM,France,47.948611,0.201667,194
+Lossiemouth,Lossiemouth,LMO,EGQS,United Kingdom,57.705214,-3.339169,42
+Lampedusa,Lampedusa,LMP,LICD,Italy,35.497914,12.618083,70
+Lindau HBF,Lindau,LND,LIND,Germany,47.5489,9.688,1000
+Linz,Linz,LNZ,LOWL,Austria,48.233219,14.187511,978
+Saab,Linkoeping,LPI,ESSL,Sweden,58.40615,15.680508,172
+Lipetsk Airport,Lipetsk,LPK,UUOL,Russia,52.7028,39.5378,584
+Liverpool,Liverpool,LPL,EGGP,United Kingdom,53.333611,-2.849722,80
+Lappeenranta,Lappeenranta,LPP,EFLP,Finland,61.044553,28.144397,349
+Liepaja Intl,Liepaja,LPX,EVLA,Latvia,56.5175,21.096944,16
+Loudes,Le Puy,LPY,LFHP,France,45.080689,3.762889,2731
+Larisa,Larissa,LRA,LGLR,Greece,39.650253,22.4655,241
+La Rochelle-Ile de Re,La Rochelle,LRH,LFBH,France,46.1792,-1.19528,74
+Leros,Leros,LRS,LGLE,Greece,37.184903,26.800289,39
+Lann Bihoue,Lorient,LRT,LFRH,France,47.760555,-3.44,160
+Sumburgh,Sumburgh,LSI,EGPB,United Kingdom,59.878889,-1.295556,20
+Luton,London,LTN,EGGW,United Kingdom,51.874722,-0.368333,526
+Le Touquet Paris Plage,Le Tourquet,LTQ,LFAT,France,50.517385,1.620587,36
+La Môle Airport,La Môle,LTT,LFTZ,France,43.2054,6.482,59
+Lugano,Lugano,LUG,LSZA,Switzerland,46.004275,8.910578,915
+Luxembourg,Luxemburg,LUX,ELLX,Luxembourg,49.626575,6.211517,1234
+Lublin,Lublin,LUZ,EPLB,Poland,51.239333,22.714083,203
+Entrammes,Laval,LVA,LFOV,France,48.031361,-0.742986,330
+Lerwick / Tingwall Airport,Lerwick,LWK,EGET,United Kingdom,60.1922,-1.24361,43
+Lviv Intl,Lvov,LWO,UKLL,Ukraine,49.8125,23.956111,1071
+Leeuwarden,Leeuwarden,LWR,EHLW,Netherlands,53.228611,5.760556,3
+Limnos,Limnos,LXS,LGLM,Greece,39.917072,25.236308,14
+Lycksele,Lycksele,LYC,ESNL,Sweden,64.548322,18.716219,705
+Lyneham,Lyneham,LYE,EGDL,United Kingdom,51.505144,-1.993428,513
+Ashford,Lympne,LYM,EGMK,United Kingdom,51.083333,1.016667,351
+Bron,Lyon,LYN,LFLY,France,45.727172,4.944275,659
+Saint Exupery,Lyon,LYS,LFLL,France,45.726387,5.090833,821
+Lydd,Lydd,LYX,EGMD,United Kingdom,50.956111,0.939167,13
+Barajas,Madrid,MAD,LEMD,Spain,40.493556,-3.566764,2000
+Menorca,Menorca,MAH,LEMH,Spain,39.862597,4.218647,298
+Manchester,Manchester,MAN,EGCC,United Kingdom,53.353744,-2.27495,257
+Maribor,Maribor,MBX,LJMB,Slovenia,46.479861,15.686131,876
+Domerat,Montlucon,MCU,LFLT,France,46.352525,2.570486,771
+Uytash,Makhachkala,MCX,URML,Russia,42.816822,47.652294,12
+Mehamn,Mehamn,MEH,ENMR,Norway,71.029722,27.826667,41
+Brenoux,Mende,MEN,LFNB,France,44.502108,3.532819,3362
+Meribel Airport,Ajaccio,MFX,LFKX,France,45.4069,6.58056,5636
+Monchengladbach,Moenchengladbach,MGL,EDLN,Germany,51.230356,6.504494,125
+Mannheim City,Mannheim,MHG,EDFM,Germany,49.472706,8.514264,309
+Minsk 1,Minsk,MHP,UMMM,Belarus,53.864472,27.539683,748
+Mariehamn,Mariehamn,MHQ,EFMA,Finland,60.122203,19.898156,17
+Mildenhall,Mildenhall,MHZ,EGUN,United Kingdom,52.361933,0.486406,33
+Mikkeli,Mikkeli,MIK,EFMI,Finland,61.6866,27.201794,329
+Kjaerstad,Mosjoen,MJF,ENMS,Norway,65.783997,13.214914,237
+Mitilini,Mytilini,MJT,LGMT,Greece,39.056667,26.598333,60
+Murcia San Javier,Murcia,MJV,LELC,Spain,37.774972,-0.812389,11
+Luqa,Malta,MLA,LMML,Malta,35.857497,14.4775,300
+Bale Mulhouse,Mulhouse,MLH,LFSB,France,47.589583,7.529914,885
+Melilla,Melilla,MLN,GEML,Spain,35.279817,-2.956256,156
+Milos,Milos,MLO,LGML,Greece,36.696111,24.4775,12
+Erhac,Malatya,MLX,LTAT,Turkey,38.435347,38.091006,2828
+Durham Tees Valley Airport,Teesside,MME,EGNV,United Kingdom,54.509189,-1.429406,120
+Murmansk,Murmansk,MMK,ULMM,Russia,68.781672,32.750822,266
+Sturup,Malmoe,MMX,ESMS,Sweden,55.530193,13.371639,236
+Aro,Molde,MOL,ENML,Norway,62.744722,7.2625,10
+Marktoberdorf Schule,Marktoberdorf,MOS,MARO,Germany,47.777,10.623,1200
+Mediterranee,Montpellier,MPL,LFMT,France,43.576194,3.963014,17
+Mariupol International Airport,Mariupol International,MPW,UKCM,Ukraine,47.0761,37.4496,251
+Mardin Airport,Mardin,MQM,LTCR,Turkey,37.2233,40.6317,1729
+Røssvoll Airport,Mo i Rana,MQN,ENRA,Norway,66.3639,14.3014,229
+Provence,Marseille,MRS,LFML,France,43.435555,5.213611,74
+Mineralnyye Vody,Mineralnye Vody,MRV,URMM,Russia,44.225072,43.081889,1054
+Manston,Manston,MSE,EGMH,United Kingdom,51.342222,1.346111,178
+Minsk 2,Minsk 2,MSQ,UMMS,Belarus,53.882469,28.030731,670
+Mus Airport,Mus,MSR,LTCK,Turkey,38.747769,41.661236,4157
+Maastricht,Maastricht,MST,EHBK,Netherlands,50.911658,5.770144,375
+Franz Josef Strauss,Munich,MUC,EDDM,Germany,48.353783,11.786086,1487
+Munich HBF,Munich,MUQ,MUNI,Germany,48.1408,11.555,1200
+Mogilev Airport,Mogilev,MVQ,UMOO,Belarus,53.9549,30.0951,637
+Megeve Airport,Verdun,MVV,LFHM,France,45.8208,6.65222,4823
+Ploujean,Morlaix,MXN,LFRU,France,48.603222,-3.815783,272
+Malpensa,Milano,MXP,LIMC,Italy,45.630606,8.728111,767
+Mora,Mora,MXX,ESKM,Sweden,60.957908,14.511383,634
+Merzifon,Merzifon,MZH,LTAP,Turkey,40.829375,35.521992,1758
+Frescaty,Metz,MZM,LFSF,France,49.071667,6.131667,629
+Nalchik Airport,Nalchik,NAL,URMN,Russia,43.5129,43.6366,1461
+Capodichino,Naples,NAP,LIRN,Italy,40.886033,14.290781,294
+Kapadokya,Nevsehir,NAV,LTAZ,Turkey,38.771867,34.53455,3100
+Begishevo,Nizhnekamsk,NBC,UWKE,Russia,55.34,52.06,50
+Cote D\\'Azur,Nice,NCE,LFMN,France,43.658411,7.215872,12
+Newcastle,Newcastle,NCL,EGNT,United Kingdom,55.0375,-1.691667,266
+Meythet,Annecy,NCY,LFLP,France,45.929233,6.098764,1521
+Sanday Airport,Sanday,NDY,EGES,United Kingdom,59.2503,-2.57667,68
+Cuxhaven Airport,Cuxhaven,NDZ,KNDZ,Germany,53.768612,8.644722,75
+Northolt,Northolt,NHT,EGWU,United Kingdom,51.553,-0.418167,124
+Souche,Niort,NIT,LFBN,France,46.311303,-0.401503,203
+Mykolaiv International Airport,Nikolayev,NLV,UKON,Ukraine,47.0579,31.9198,184
+Naryan-Mar,Naryan-Mar,NNM,ULAM,Russia,67.380537,53.051016,20
+Connemara Regional Airport,Indreabhan,NNR,EICA,Ireland,53.2303,-9.46778,0
+Ireland West Knock,Connaught,NOC,EIKN,Ireland,53.910297,-8.818492,665
+Sonderlandeplatz Norden-Norddeich,Norden,NOE,EDWS,Germany,53.632221,7.191389,3
+Nottingham Airport,Nottingham,NQT,EGBN,United Kingdom,52.92,-1.079167,138
+St Mawgan,Newquai,NQY,EGDG,United Kingdom,50.440558,-4.995408,390
+Norderney,Norderney,NRD,EDWY,Germany,53.706822,7.230247,6
+Kungsangen,Norrkoeping,NRK,ESSP,Sweden,58.586253,16.250622,32
+North Ronaldsay Airport,North Ronaldsay,NRL,EGEN,United Kingdom,59.3675,-2.43444,40
+Niederrhein,Weeze,NRN,EDLV,Germany,51.602222,6.141944,106
+Sigonella,Sigonella,NSY,LICZ,Italy,37.401664,14.922358,79
+Notodden,Notodden,NTB,ENNO,Norway,59.565683,9.212222,63
+Nantes Atlantique,Nantes,NTE,LFRS,France,47.153189,-1.610725,90
+Nurnberg,Nuernberg,NUE,EDDN,Germany,49.4987,11.066897,1046
+Nurnberg HBF,Nurnberg,NUR,NURN,Germany,49.446,11.081944,1200
+Framnes,Narvik,NVK,ENNK,Norway,68.435833,17.388056,97
+Fourchambault,Nevers,NVS,LFQG,France,47.002625,3.113333,602
+Norwich,Norwich,NWI,EGSH,United Kingdom,52.675833,1.282778,117
+Skavsta,Stockholm,NYO,ESKN,Sweden,58.788636,16.912189,140
+Marktoberdorf BF,Marktoberdorf,OAL,MARK,Germany,47.78,10.627,1200
+Oberpfaffenhofen,Oberpfaffenhofen,OBF,EDMO,Germany,48.081364,11.283067,1947
+Oban Airport,North Connel,OBN,EGEO,United Kingdom,56.464,-5.4,23
+Ardeche Meridionale,Aubenas-vals-lanas,OBS,LFHO,France,44.544236,4.372192,923
+Cordoba,Cordoba,ODB,LEBA,Spain,37.842006,-4.848878,297
+Odense,Odense,ODE,EKOD,Denmark,55.476664,10.330933,56
+Odiham,Odiham,ODH,EGVO,United Kingdom,51.234139,-0.942825,405
+Odesa Intl,Odessa,ODS,UKOO,Ukraine,46.426767,30.676464,172
+Ornskoldsvik,Ornskoldsvik,OER,ESNO,Sweden,63.408339,18.990039,354
+Beslan Airport,Beslan,OGZ,URMO,Russia,43.2051,44.6066,1673
+Ohrid,Ohrid,OHD,LWOH,Macedonia,41.179956,20.742325,2313
+Orland,Orland,OLA,ENOL,Norway,63.698908,9.604003,28
+Olbia Costa Smeralda,Olbia,OLB,LIEO,Italy,40.898661,9.517628,37
+Mostar,Mostar,OMO,LQMO,Bosnia and Herzegovina,43.2829,17.845878,156
+Oradea,Oradea,OMR,LROD,Romania,47.025278,21.9025,465
+Zonguldak,Zonguldak,ONQ,LTAS,Turkey,41.506111,32.088611,44
+Porto,Porto,OPO,LPPR,Portugal,41.248055,-8.681389,228
+Orebro,Orebro,ORB,ESOE,Sweden,59.223733,15.037956,188
+Bricy,Orleans,ORE,LFOJ,France,47.987778,1.760556,412
+Cork,Cork,ORK,EICK,Ireland,51.841269,-8.491111,502
+Orly,Paris,ORY,LFPO,France,48.725278,2.359444,291
+Östersund Airport,Östersund,OSD,ESNZ,Sweden,63.1944,14.5003,1233
+Osijek,Osijek,OSI,LDOS,Croatia,45.462667,18.810156,290
+Oskarshamn,Oskarshamn,OSK,ESMO,Sweden,57.350453,16.497972,96
+Gardermoen,Oslo,OSL,ENGM,Norway,60.193917,11.100361,681
+Redzikowo,Slupsk,OSP,EPSK,Poland,54.478889,17.1075,217
+Mosnov,Ostrava,OSR,LKMT,Czech Republic,49.696292,18.111053,844
+Oostende,Ostend,OST,EBOS,Belgium,51.198889,2.862222,13
+Namsos Høknesøra Airport,Namsos,OSY,ENNM,Norway,64.4722,11.5786,7
+Koszalin - Zegrze Pomorskie Airport,Koszalin,OSZ,EPKO,Poland,54.041,16.266,111
+Henri Coanda,Bucharest,OTP,LROP,Romania,44.572161,26.102178,314
+Oulu,Oulu,OUL,EFOU,Finland,64.930061,25.354564,47
+Asturias,Aviles,OVD,LEAS,Spain,43.563567,-6.034622,416
+Kidlington,Oxford,OXF,EGTK,United Kingdom,51.836944,-1.32,270
+Zaporizhzhia International Airport,Zaporozhye,OZH,UKDE,Ukraine,47.867,35.3157,373
+Moron Ab,Sevilla,OZP,LEMO,Spain,37.174917,-5.615944,285
+Paderborn Lippstadt,Paderborn,PAD,EDLP,Germany,51.614089,8.616317,699
+Paros,Paros,PAS,LGPA,Greece,37.010278,25.127778,121
+Plovdiv,Plovdiv,PDV,LBPD,Bulgaria,42.067806,24.850833,597
+Pardubice,Pardubice,PED,LKPD,Czech Republic,50.013419,15.738647,741
+Peenemunde Airfield,Peenemunde,PEF,EDCP,Germany,54.157778,13.772778,7
+Perugia,Perugia,PEG,LIRZ,Italy,43.095906,12.513222,693
+Petrozavodsk Airport,Petrozavodsk,PES,ULPB,Russia,61.8852,34.1547,151
+Pécs-Pogány Airport,Pécs-Pogány,PEV,LHPP,Hungary,45.990928,18.240983,1000
+Penza Airport,Penza,PEZ,UWPP,Russia,53.1106,45.0211,614
+Rivesaltes,Perpignan,PGF,LFMP,France,42.740442,2.870667,144
+Bassillac,Perigueux,PGX,LFBX,France,45.198055,0.815556,328
+Prestwick,Prestwick,PIK,EGPK,United Kingdom,55.509444,-4.586667,65
+Biard,Poitiers,PIS,LFBI,France,46.587745,0.306666,423
+Pajala Airport,Pajala,PJA,ESUP,Sweden,67.2456,23.0689,542
+Alexion,Porto Heli,PKH,LGHL,Greece,37.298792,23.148986,2224
+Kresty,Pskov,PKV,ULOO,Russia,57.783917,28.395614,154
+Plymouth,Plymouth,PLH,EGHD,United Kingdom,50.422778,-4.105833,476
+Palanga Intl,Palanga,PLQ,EYPA,Lithuania,55.973228,21.093856,33
+Poltava,Poltava,PLV,UKHP,Ukraine,49.34261,34.23551,333
+Parma,Parma,PMF,LIMP,Italy,44.824483,10.296367,161
+Son Sant Joan,Palma de Mallorca,PMI,LEPA,Spain,39.55361,2.727778,24
+Palermo,Palermo,PMO,LICJ,Italy,38.175958,13.091019,65
+Pamplona,Pamplona,PNA,LEPP,Spain,42.770039,-1.646331,1504
+Pantelleria,Pantelleria,PNL,LICG,Italy,36.816519,11.968864,635
+Pajuostis,Panevezys,PNV,EYPP,Lithuania,55.729444,24.460833,197
+Pori,Pori,POR,EFPO,Finland,61.461686,21.799983,44
+Portoroz,Portoroz,POW,LJPZ,Slovenia,45.473353,13.614978,7
+Cormeilles En Vexin,Pontoise,POX,LFPT,France,49.096647,2.040833,325
+Lawica,Poznan,POZ,EPPO,Poland,52.421031,16.826325,308
+Papa Westray Airport,Papa Westray,PPW,EGEP,United Kingdom,59.3517,-2.90028,91
+Ruzyne,Prague,PRG,LKPR,Czech Republic,50.100833,14.26,1247
+Pristina,Pristina,PRN,LYPR,Serbia,42.572778,21.035833,1789
+Prerov,Prerov,PRV,LKPO,Czech Republic,49.425833,17.404722,676
+Pisa,Pisa,PSA,LIRP,Italy,43.683917,10.39275,6
+St. Peter-Ording Airport,Sankt Peter-Ording,PSH,EDXO,Germany,54.3089,8.68694,7
+Perth Scone Airport,Perth,PSL,EGPT,United Kingdom,56.439722,-3.371389,392
+Pescara,Pescara,PSR,LIBP,Italy,42.431656,14.181067,48
+Pau Pyrenees,Pau,PUF,LFBP,France,43.38,-0.418611,616
+Pula,Pula,PUY,LDPL,Croatia,44.893533,13.922192,274
+Aktio,Preveza,PVK,LGPZ,Greece,38.925467,20.765311,11
+Porto Santo,Porto Santo,PXO,LPPS,Portugal,33.073386,-16.349975,341
+Andravida,Andravida,PYR,LGAD,Greece,37.920708,21.292583,55
+Penzance Heliport,Penzance,PZE,EGHK,United Kingdom,50.1281,-5.51845,14
+Piestany,Piestany,PZY,LZPP,Slovakia,48.625247,17.828444,545
+Coningsby,Coningsby,QCY,EGXC,United Kingdom,53.093014,-0.166014,25
+Duxford Aerodrome,Duxford,QFO,EGSU,United Kingdom,52.09083,0.13194,125
+Gy?r-Pér International Airport,Gy?r,QGY,LHPR,Hungary,47.627097,17.808347,424
+Wevelgem,Kortrijk-vevelgem,QKT,EBKT,Belgium,50.817222,3.204722,64
+Lasham,Lasham,QLA,EGHL,United Kingdom,51.187167,-1.0335,618
+Latina,Latina,QLT,LIRL,Italy,41.542436,12.909019,93
+Neuchatel Airport,Neuchatel,QNC,LSGN,Switzerland,46.9575,6.86472,1427
+Annemasse,Annemasse,QNJ,LFLI,France,46.191972,6.268386,1620
+Charnay,Macon,QNX,LFLM,France,46.295103,4.795767,728
+Padova,Padova,QPA,LIPU,Italy,45.395767,11.847903,44
+Piacenza,Piacenza,QPZ,LIMS,Italy,44.913055,9.723333,456
+Sabadell Airport,Sabadell,QSA,LELL,Spain,41.5209,2.10508,0
+Salerno Pontecagnano Airport,Salerno,QSR,LIRI,Italy,40.6204,14.911294,123
+Utti,Utti,QVY,EFUT,Finland,60.896394,26.938353,339
+Aix Les Milles,Aix-les-milles,QXB,LFMA,France,43.505554,5.367778,367
+RADOM,RADOM,QXR,EPRA,Poland,51.231978,21.124183,479
+Gdynia,Gdynia,QYD,EPOK,Poland,54.5797,18.5172,144
+Barberey,Troyes,QYR,LFQB,France,48.322136,4.016703,388
+St Agnant,Rochefort,RCO,LFDN,France,45.887779,-0.983056,60
+Rochester Airport,Rochester,RCS,EGTO,United Kingdom,51.351944,0.502778,426
+Marcillac,Rodez,RDZ,LFCR,France,44.407869,2.482672,1910
+Reggio Calabria,Reggio Calabria,REG,LICR,Italy,38.071206,15.651556,96
+Røst Airport,Røst,RET,ENRS,Norway,67.5278,12.1033,7
+Reus,Reus,REU,LERS,Spain,41.147392,1.167172,234
+Regensburg HBF,Regensburg,RGB,REGE,Germany,49.022,12.1111,1200
+Burgos Airport,Burgos,RGS,LEBG,Spain,42.357628,-3.620764,2945
+Champagne,Reims,RHE,LFSR,France,49.31,4.05,312
+Rhodes Diagoras,Rhodos,RHO,LGRP,Greece,36.405419,28.086192,17
+Riga Intl,Riga,RIX,EVRA,Latvia,56.923611,23.971111,34
+Rijeka,Rijeka,RJK,LDRI,Croatia,45.216889,14.570267,278
+Logroño-Agoncillo Airport,Logroño-Agoncillo,RJL,LELO,Spain,42.4542,-2.32083,1161
+Roskilde,Copenhagen,RKE,EKRK,Denmark,55.585567,12.131428,146
+Laage,Laage,RLG,ETNL,Germany,53.918167,12.278333,138
+Rimini,Rimini,RMI,LIPR,Italy,44.020292,12.611747,41
+Ramstein Ab,Ramstein,RMS,ETAR,Germany,49.436911,7.600283,776
+Ronneby,Ronneby,RNB,ESDF,Sweden,56.266667,15.265,191
+Renaison,Roanne,RNE,LFLO,France,46.058334,4.001389,1106
+Bornholm Ronne,Ronne,RNN,EKRN,Denmark,55.063267,14.759558,52
+St Jacques,Rennes,RNS,LFRN,France,48.069508,-1.734794,124
+Rostov Na Donu,Rostov,ROV,URRR,Russia,47.258208,39.818089,280
+Roros,Roros,RRS,ENRO,Norway,62.578411,11.342347,2054
+Rotterdam,Rotterdam,RTM,EHRD,Netherlands,51.956944,4.437222,-15
+Central,Saratov,RTW,UWSS,Russia,51.334366,46.022952,152
+Ryum Airport,Rørvik,RVK,ENRM,Norway,64.8383,11.1461,14
+Rovaniemi,Rovaniemi,RVN,EFRO,Finland,66.564822,25.830411,642
+Rivne International Airport,Rivne,RWN,UKLR,Ukraine,50.6071,26.1416,755
+Staroselye Airport,Rybinsk,RYB,UUBK,Russia,58.1042,38.9294,423
+Moss,Rygge,RYG,ENRY,Norway,59.378933,10.785389,174
+Medis,Royan,RYN,LFCY,France,45.628056,-0.9725,72
+Jasionka,Rzeszow,RZE,EPRZ,Poland,50.109958,22.019,675
+Sabiha Gokcen,Istanbul,SAW,LTFJ,Turkey,40.898553,29.309219,312
+Ampugnano,Siena,SAY,LIQS,Italy,43.256286,11.255036,634
+Armor,St.-brieuc Armor,SBK,LFRT,France,48.537777,-2.854445,453
+Sibiu,Sibiu,SBZ,LRSB,Romania,45.785597,24.091342,1496
+Saarbrucken,Saarbruecken,SCN,EDDR,Germany,49.214553,7.109508,1058
+Santiago,Santiago,SCQ,LEST,Spain,42.896333,-8.415144,1213
+Stefan Cel Mare,Suceava,SCV,LRSV,Romania,47.6875,26.354056,1375
+Syktyvkar,Syktyvkar,SCW,UUYY,Russia,61.64705,50.84505,342
+Sundsvall Harnosand,Sundsvall,SDL,ESNN,Sweden,62.528125,17.443928,16
+Anda Airport,Sandane,SDN,ENSD,Norway,61.83,6.10583,196
+Santander,Santander,SDR,LEXJ,Spain,43.427064,-3.820006,16
+Scatsta,Scatsta,SDZ,EGPM,United Kingdom,60.432778,-1.296111,81
+Southend,Southend,SEN,EGMC,United Kingdom,51.571389,0.695556,49
+Sanliurfa Airport,Sanliurfa,SFQ,LTCH,Turkey,37.094261,38.847103,1483
+Skelleftea,Skelleftea,SFT,ESNS,Sweden,64.624772,21.076892,157
+Sonderborg,Soenderborg,SGD,EKSB,Denmark,54.964367,9.791731,24
+Sinop Airport,Sinop,SIC,LTCM,Turkey,42.0158,35.0664,20
+Simferopol Intl,Simferopol,SIP,UKFF,Ukraine,45.052222,33.975139,639
+Sion,Sion,SIR,LSGS,Switzerland,46.219592,7.326764,1585
+Sarajevo,Sarajevo,SJJ,LQSA,Bosnia and Herzegovina,43.824583,18.331467,1708
+Seinäjoki Airport,Seinäjoki / Ilmajoki,SJY,EFSI,Finland,62.6921,22.8323,302
+Geiteryggen,Skien,SKE,ENSN,Norway,59.185,9.566944,463
+Makedonia,Thessaloniki,SKG,LGTS,Greece,40.519725,22.97095,22
+Skagen,Stokmarknes,SKN,ENSK,Norway,68.580833,15.026111,11
+Skopje,Skopje,SKP,LWSK,Macedonia,41.961622,21.621381,781
+Skrydstrup,Skrydstrup,SKS,EKSP,Denmark,55.225553,9.263931,141
+Skiros,Skiros,SKU,LGSY,Greece,38.967553,24.487228,44
+Saransk Airport,Saransk,SKX,UWPS,Russia,54.1251,45.2123,676
+Sliac,Sliac,SLD,LZSL,Slovakia,48.637839,19.134108,1043
+Salamanca,Salamanca,SLM,LESA,Spain,40.952117,-5.501986,2595
+Samos,Samos,SMI,LGSM,Greece,37.689999,26.911667,19
+Samedan,Samedan,SMV,LSZS,Switzerland,46.534075,9.884106,5600
+Shannon,Shannon,SNN,EINN,Ireland,52.701978,-8.924817,46
+Montoir,St.-nazaire,SNR,LFRZ,France,47.312189,-2.149181,13
+Sármellék International Airport,Sármellék,SOB,LHSM,Hungary,46.686389,17.159056,408
+Sofia,Sofia,SOF,LBSF,Bulgaria,42.695194,23.406167,1742
+Sogndal Airport,Sogndal,SOG,ENSG,Norway,61.1561,7.13778,0
+Sorkjosen Airport,Sorkjosen,SOJ,ENSR,Norway,69.7868,20.9594,16
+Soderhamn Airport,Soderhamn,SOO,ESCL,Sweden,61.261667,17.098056,94
+Sodankyla,Sodankyla,SOT,EFSO,Finland,67.395033,26.619133,602
+Southampton,Southampton,SOU,EGHI,United Kingdom,50.950261,-1.356803,44
+Stronsay Airport,Stronsay,SOY,EGER,United Kingdom,59.1553,-2.64139,39
+Solenzara,Solenzara,SOZ,LFKS,France,41.924416,9.406,28
+Spangdahlem Ab,Spangdahlem,SPM,ETAD,Germany,49.972667,6.6925,1197
+Split,Split,SPU,LDSP,Croatia,43.538944,16.297964,79
+Storuman Airport,Mohed,SQO,ESUD,Sweden,64.960894,17.696583,915
+Siauliai Intl,Siauliai,SQQ,EYSA,Lithuania,55.893886,23.394975,443
+Sorstokken,Stord,SRP,ENSO,Norway,59.791925,5.34085,160
+Stokka,Sandnessjoen,SSJ,ENST,Norway,65.956828,12.468944,56
+Stauning,Stauning,STA,EKVJ,Denmark,55.990122,8.353906,17
+Stansted,London,STN,EGSS,United Kingdom,51.885,0.235,348
+Stuttgart,Stuttgart,STR,EDDS,Germany,48.689878,9.221964,1276
+Shpakovskoye,Stavropol,STW,URMT,Russia,45.109165,42.112778,1486
+Lamezia Terme,Lamezia,SUF,LICA,Italy,38.905394,16.242269,39
+Satu Mare,Satu Mare,SUJ,LRSM,Romania,47.703275,22.8857,405
+Sola,Stavanger,SVG,ENZV,Norway,58.876778,5.637856,29
+Svolvær Helle Airport,Svolvær,SVJ,ENSH,Norway,68.2433,14.6692,27
+Savonlinna,Savonlinna,SVL,EFSA,Finland,61.943064,28.945136,311
+Sheremetyevo,Moscow,SVO,UUEE,Russia,55.972642,37.414589,622
+Sevilla,Sevilla,SVQ,LEZL,Spain,37.418,-5.893106,111
+Swansea,Swansea,SWS,EGFH,United Kingdom,51.605333,-4.067833,299
+Entzheim,Strasbourg,SXB,LFST,France,48.538319,7.628233,505
+Schonefeld,Berlin,SXF,EDDB,Germany,52.380001,13.5225,157
+Sligo,Sligo,SXL,EISG,Ireland,54.280214,-8.599206,11
+Stornoway,Stornoway,SYY,EGPO,United Kingdom,58.215556,-6.331111,26
+Samsun-Çar?amba Airport,Samsun,SZF,LTFH,Turkey,41.2545,36.5671,18
+Salzburg,Salzburg,SZG,LOWS,Austria,47.793304,13.004333,1411
+Schwerin Parchim,Parchim,SZW,EDOP,Germany,53.426997,11.783436,166
+Goleniow,Szczecin,SZZ,EPSC,Poland,53.584731,14.902206,154
+Grottaglie,Grottaglie,TAR,LIBG,Italy,40.517514,17.403212,215
+Tatry,Poprad,TAT,LZTT,Slovakia,49.073594,20.241142,2356
+Tartu,Tartu,TAY,EETU,Estonia,58.307461,26.690428,219
+Tambow,Tambow,TBW,UUOT,Russia,52.81,41.48,126
+Cataloi,Tulcea,TCE,LRTC,Romania,45.062486,28.714311,200
+Thisted,Thisted,TED,EKTS,Denmark,57.0688,8.705225,23
+Tekirda? Çorlu Airport,Çorlu,TEQ,LTBU,Turkey,41.13825,27.919094,574
+Podgorica,Podgorica,TGD,LYPG,Montenegro,42.359392,19.251894,141
+Transilvania Targu Mures,Tirgu Mures,TGM,LRTM,Romania,46.467714,24.412525,963
+Tempelhof,Berlin,THF,EDDI,Germany,52.473025,13.403944,167
+Trollhattan Vanersborg,Trollhattan,THN,ESGT,Sweden,58.318056,12.345,137
+Tirana Rinas,Tirana,TIA,LATI,Albania,41.414742,19.720561,126
+Tivat,Tivat,TIV,LYTV,Montenegro,42.404664,18.723286,20
+Turku,Turku,TKU,EFTU,Finland,60.514142,22.262808,161
+Treuchtlingen BF,Treuchtlingen,TLG,TREU,Germany,49.04,11.081944,1200
+Tallinn,Tallinn-ulemiste International,TLL,EETN,Estonia,59.413317,24.832844,131
+Le Palyvestre,Hyeres,TLN,LFTH,France,43.0973,6.14603,7
+Blagnac,Toulouse,TLS,LFBO,France,43.629075,1.363819,499
+Tampere Pirkkala,Tampere,TMP,EFTP,Finland,61.414147,23.604392,390
+Toussus Le Noble,Toussous-le-noble,TNF,LFPN,France,48.751922,2.106189,538
+Ternopol,Ternopol,TNL,UKLT,Ukraine,49.31,25.42,1073
+Torrejon,Madrid,TOJ,LETO,Spain,40.496747,-3.445872,2026
+Langnes,Tromso,TOS,ENTC,Norway,69.683333,18.918919,31
+Trapani Birgi,Trapani,TPS,LICT,Italy,37.911403,12.487961,24
+Vaernes,Trondheim,TRD,ENVA,Norway,63.457556,10.92425,56
+Tiree,Tiree,TRE,EGPU,United Kingdom,56.499167,-6.869167,38
+Torp,Sandefjord,TRF,ENTO,Norway,59.186703,10.258628,286
+Torino,Torino,TRN,LIMF,Italy,45.200761,7.649631,989
+Ronchi Dei Legionari,Ronchi De Legionari,TRS,LIPQ,Italy,45.8275,13.472222,37
+Treviso,Treviso,TSF,LIPH,Italy,45.6484,12.194422,59
+Tresco Heliport,Tresco,TSO,EGHT,United Kingdom,49.945556,-6.331389,20
+Traian Vuia,Timisoara,TSR,LRTR,Romania,45.809861,21.337861,348
+Tortoli,Tortoli,TTB,LIET,Italy,39.918761,9.682981,23
+Val De Loire,Tours,TUF,LFOT,France,47.432222,0.727606,357
+Tegel,Berlin,TXL,EDDT,Germany,52.559686,13.287711,122
+Torsby Airport,Torsby,TYF,ESST,Sweden,60.157622,12.991269,393
+Trabzon,Trabzon,TZX,LTCG,Turkey,40.995108,39.789728,104
+Adana-Incirlik Airbase,Adana,UAB,KUAB,Turkey,37.00028,35.41833,500
+Uzhhorod International Airport,Uzhgorod,UDJ,UKLU,Ukraine,48.634278,22.263356,383
+Pluguffan,Quimper,UIP,LFRQ,France,47.974981,-4.167786,297
+Lutsk,Lutsk,UKC,UKLC,Ukraine,50.6833,25.4833,774
+Belbek Sevastopol International Airport,Sevastopol,UKS,UKFB,Ukraine,44.691431,33.57567,344
+Barataevka,Ulyanovsk,ULV,UWLL,Russia,54.268299,48.2267,463
+Ulyanovsk East Airport,Ulyanovsk,ULY,UWLW,Russia,54.401,48.8027,252
+Umea,Umea,UME,ESNU,Sweden,63.791828,20.282758,24
+Unst Airport,Unst,UNT,EGPW,United Kingdom,60.7472,-0.85385,0
+Kuressaare,Kuressaare,URE,EEKE,Estonia,58.229883,22.509494,14
+Vallee De Seine,Rouen,URO,LFOP,France,49.384172,1.1748,512
+Kursk East Airport,Kursk,URS,UUOK,Russia,51.7506,36.2956,686
+Usak Airport,Usak,USQ,LTBO,Turkey,38.681478,29.471675,2897
+Soesterberg,Soesterberg,UTC,EHSB,Netherlands,52.1273,5.27619,66
+Bugulma Airport,Bugulma,UUA,UWKB,Russia,54.64,52.8017,991
+Vaasa,Vaasa,VAA,EFVA,Finland,63.05065,21.762175,19
+Chabeuil,Valence,VAF,LFLU,France,44.921594,4.9699,525
+Van,Van,VAN,LTCI,Turkey,38.468219,43.3323,5480
+Varna,Varna,VAR,LBWN,Bulgaria,43.232072,27.825106,230
+Sivas,Sivas,VAS,LTAR,Turkey,39.813828,36.903497,5236
+Svartnes Airport,Vardø,VAW,ENSS,Norway,70.355392,31.044889,42
+Montichiari,Brescia,VBS,LIPO,Italy,45.428889,10.330556,356
+Visby,Visby,VBY,ESSV,Sweden,57.662797,18.346211,164
+Venezia Tessera,Venice,VCE,LIPZ,Italy,45.505278,12.351944,7
+Leirin,Fagernes,VDB,ENFG,Norway,61.015556,9.288056,2697
+Airport,Vadso,VDS,ENVD,Norway,70.065,29.844,127
+Vologda Airport,Vologda,VGD,ULWW,Russia,59.281667,39.946667,387
+Vigo,Vigo,VGO,LEVX,Spain,42.2318,-8.626775,855
+Vilhelmina,Vilhelmina,VHM,ESNV,Sweden,64.579083,16.833575,1140
+Charmeil,Vichy,VHY,LFLV,France,46.169689,3.403736,817
+Vicenza,Vicenza,VIC,LIPT,Italy,45.573411,11.52955,128
+Schwechat,Vienna,VIE,LOWW,Austria,48.110278,16.569722,600
+Vinnitsa,Vinnitsa,VIN,UKWW,Ukraine,49.2433,28.6063,900
+Vitoria,Vitoria,VIT,LEVT,Spain,42.882836,-2.724469,1682
+Vnukovo,Moscow,VKO,UUWW,Russia,55.591531,37.261486,685
+Vorkuta Airport,Vorkuta,VKT,UUYW,Russia,67.4886,63.9931,604
+Valencia,Valencia,VLC,LEVC,Spain,39.489314,-0.481625,225
+Valladolid,Valladolid,VLL,LEVD,Spain,41.706111,-4.851944,2775
+Velikiye Luki,Velikiye Luki,VLU,ULOL,Russia,56.381667,30.61,328
+Meucon,Vannes,VNE,LFRV,France,47.723303,-2.718561,440
+Vilnius Intl,Vilnius,VNO,EYVI,Lithuania,54.634133,25.285767,646
+Gumrak,Volgograd,VOG,URWW,Russia,48.782528,44.345544,482
+Nea Anchialos,Nea Anghialos,VOL,LGBL,Greece,39.219619,22.794339,83
+Chertovitskoye,Voronezh,VOZ,UUOO,Russia,51.814211,39.229589,514
+Varkaus,Varkaus,VRK,EFVR,Finland,62.171111,27.868611,286
+Vila Real,Vila Real,VRL,LPVR,Portugal,41.274334,-7.720472,1805
+Villafranca,Villafranca,VRN,LIPX,Italy,45.395706,10.888533,239
+Værøy Heliport,Værøy,VRY,ENVR,Norway,67.6667,12.6833,36
+Luhansk International Airport,Lugansk,VSG,UKCW,Ukraine,48.4174,39.3741,636
+Vasteras,Vasteras,VST,ESOW,Sweden,59.589444,16.633611,21
+Vitebsk,Vitebsk,VTB,UMII,Belarus,55.1265,30.349639,683
+Ventspils International Airport,Ventspils,VTS,EVVA,Latvia,57.357778,21.544167,19
+Veliky Ustyug,Veliky Ustyug,VUS,ULWU,Russia,60.788333,46.26,331
+Kronoberg,Vaxjo,VXO,ESMX,Sweden,56.929144,14.727994,610
+Waterford,Waterford,WAT,EIWF,Ireland,52.1872,-7.086964,119
+Okecie,Warsaw,WAW,EPWA,Poland,52.16575,20.967122,362
+Wick,Wick,WIC,EGPC,United Kingdom,58.458889,-3.093056,126
+Warsaw Modlin,Warsaw,WMI,EPMO,Poland,52.451111,20.651667,341
+Woensdrecht,Woensdrecht,WOE,EHWO,Netherlands,51.449092,4.342031,63
+Strachowice,Wroclaw,WRO,EPWR,Poland,51.102683,16.885836,404
+Westray Airport,Westray,WRY,EGEW,United Kingdom,59.3503,-2.95,29
+Waddington,Waddington,WTN,EGXW,United Kingdom,53.166167,-0.523811,231
+Wilhelmshaven Mariensiel,Wilhelmshaven,WVN,EDWI,Germany,53.504833,8.053333,16
+Wurzburg HBF,Wurzburg,WZB,WURZ,Germany,49.7999,9.95555,1000
+La Teste De Buch,Arcachon,XAC,LFCH,France,44.59639,-1.110833,49
+Ceyzeriat,Bourg,XBK,LFHS,France,46.20089,5.292028,857
+Champforgeuil,Chalon,XCD,LFLH,France,46.826108,4.817633,623
+Vatry,Chalons,XCR,LFOK,France,48.776072,4.184492,587
+Hamburg Finkenwerder,Hamburg,XFW,EDHI,Germany,53.535886,9.837025,22
+Montbeugny,Moulins,XMU,LFHY,France,46.534581,3.423725,915
+Jerez,Jerez,XRY,LEJR,Spain,36.744622,-6.060111,93
+Tarare,Vilefrance,XVF,LFHV,France,45.901947,4.634906,1076
+Yenisehir Airport,Yenisehir,YEI,LTBR,Turkey,40.255208,29.562569,764
+Yeovilton,Yeovilton,YEO,EGDY,United Kingdom,51.009358,-2.638819,75
+Zadar,Zadar,ZAD,LDZD,Croatia,44.108269,15.346697,289
+Zagreb,Zagreb,ZAG,LDZA,Croatia,45.742931,16.068778,353
+Zaragoza Ab,Zaragoza,ZAZ,LEZG,Spain,41.666242,-1.041553,863
+Arnsberg Menden,Arnsberg,ZCA,EDLA,Germany,51.483333,7.899333,794
+Celle,Celle,ZCN,ETHC,Germany,52.5912,10.022133,129
+Air Base,Interlaken,ZIN,LSMI,Switzerland,46.6766,7.87908,1893
+Locarno Airport,Locarno,ZJI,LSZL,Switzerland,46.1608,8.87861,650
+Hanau Aaf,Hanau,ZNF,ETID,Germany,50.169189,8.961586,368
+Koblenz Winningen,Koblenz,ZNV,EDRK,Germany,50.3255,7.528667,640
+Speyer,Speyer,ZQC,EDRY,Germany,49.302776,8.451195,312
+Trier Fohren,Trier,ZQF,EDRT,Germany,49.8635,6.788167,665
+Donaueschingen Villingen,Donaueschingen,ZQL,EDTD,Germany,47.973331,8.522223,2231
+Zurich,Zurich,ZRH,LSZH,Switzerland,47.464722,8.549167,1416
+Stendal Borstel,Stendal,ZSN,EDOV,Germany,52.627778,11.818333,184
+Dionysios Solomos,Zakynthos,ZTH,LGZA,Greece,37.750853,20.88425,15
+Zhytomyr,Zhytomyr,ZTR,UKKV,Ukraine,50.270556,28.738611,0
